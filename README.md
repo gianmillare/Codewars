@@ -16,3 +16,17 @@
 | 8 kyu | [Expressions Matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/expressions_matter.py) |
 | 8 kyu | [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/beginner_series_2_clock.py) |
 | 8 kyu | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/multiply.py) |
+| 8 kyu | [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/total_amount_of_points.py) |
+| 8 kyu | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/abbreviate_a_two_word_name.py) |
+| 8 kyu | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/array_plus_array.py) |
+| 8 kyu | [Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/beginner_series_1_school_paperwork.py) |
+| 8 kyu | [You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/you_only_need_one_beginner.py) |
+| 8 kyu | [How do I compare numbers?](https://www.codewars.com/kata/55d8618adfda93c89600012e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/how_do_i_compare_numbers.py) |
+| 8 kyu | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/sum_of_positive.py) |
+| 8 kyu | [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/alternating_case.py) |
+| 8 kyu | [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/is_the_string_uppercase.py) |
+| 8 kyu | [SpeedCode #2 - Array Madness](https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/speedcode_2_array_madness.py) |
+| 8 kyu | [Polish alphabet](https://www.codewars.com/kata/57ab2d6072292dbf7c000039/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/polish_alphabet.py) |
+| 8 kyu | [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/all_star_code_challenge_18.py) |
+| 8 kyu | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/is_it_even.py) |
+| 8 kyu | [Will you make it?](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/will_you_make_it.py) |
