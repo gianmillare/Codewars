@@ -49,3 +49,4 @@
 | 8 kyu | [Holiday VI - Shark Pontoon](https://www.codewars.com/kata/57e921d8b36340f1fd000059/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/holiday_vi_shark_pontoon.py) |
 | 8 kyu | [Grasshopper - Messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/grasshopper_messi_goals_function.py) |
 | 8 kyu | [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/opposite_number.py) |
+| 8kyu | [What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8kyu/whats_the_real_floor.py) | 
