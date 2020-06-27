@@ -1,10 +1,15 @@
 # Codewars
 
+### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------- | ------------- | ------------- |
 | 7 kyu | [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/indexed_capitalization.py) |
 | 7 kyu | [GCD sum](https://www.codewars.com/kata/5dd259444228280032b1ed2a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/gcd_sum.py) |
 | 7 kyu | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/alternate_capitalization.py) |
+
+### 8kyu
+| Kyu (Ranking)  | Title | Solution |
+| ------------- | ------------- | ------------- |
 | 8 kyu | [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/hello_world.py)  |
 | 8 kyu | [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/l1_bartender_drinks.py) |
 | 8 kyu | [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/holiday_viii_duty_free.py) |
