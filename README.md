@@ -3,6 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------- | ------------- | ------------- |
+| 7 kyu | [Array element parity](https://www.codewars.com/kata/5a092d9e46d843b9db000064/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/array_element_parity.py) | 
 | 7 kyu | [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/indexed_capitalization.py) |
 | 7 kyu | [GCD sum](https://www.codewars.com/kata/5dd259444228280032b1ed2a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/gcd_sum.py) |
 | 7 kyu | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/alternate_capitalization.py) |
