@@ -3,6 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------- | ------------- | ------------- |
+| 7 kyu | [Aerial Firefighting](https://www.codewars.com/kata/5d10d53a4b67bb00211ca8af/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/aerial_firefighting.py) | 
 | 7 kyu | [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/longest_vowel_chain.py) |
 | 7 kyu | [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/count_the_digit.py) |
 | 7 kyu | [Array element parity](https://www.codewars.com/kata/5a092d9e46d843b9db000064/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/array_element_parity.py) | 
