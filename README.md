@@ -20,7 +20,7 @@
 | 8 kyu | [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/holiday_viii_duty_free.py) |
 | 8 kyu | [Grasshopper - Create the rooms](https://www.codewars.com/kata/56a29b237e9e997ff2000048/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/grasshopper_create_the_rooms.py) |
 | 8 kyu | [Smallest unused ID](https://www.codewars.com/kata/55eea63119278d571d00006a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/smallest_unused_id.py) |
-| 8 kyu | [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/welcome.py) |
+| 8 kyu | [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/welcome.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/welcome.js) |
 | 8 kyu | [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/get_planet_name_by_id.py) |
 | 8 kyu | [Subtract the Sum](https://www.codewars.com/kata/56c5847f27be2c3db20009c3/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/subtract_the_sum.py) |
 | 8 kyu | [Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/find_the_first_nonconsecutive_number2.py) |
