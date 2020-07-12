@@ -2,7 +2,7 @@
 
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
-| ------------- | ------------- | ------------- |
+| ------------------- | ------------------- | ------------------- |
 | 7 kyu | [makeAcronym](https://www.codewars.com/kata/557efeb04effce569d000022/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/make_acronym.py) |
 | 7 kyu | [Aerial Firefighting](https://www.codewars.com/kata/5d10d53a4b67bb00211ca8af/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/aerial_firefighting.py) | 
 | 7 kyu | [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/longest_vowel_chain.py) |
@@ -14,7 +14,7 @@
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
-| ------------- | ------------- | ------------- |
+| ------------------- | ------------------- | ------------------- |
 | 8 kyu | [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/hello_world.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/hello_world.js) |
 | 8 kyu | [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/l1_bartender_drinks.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/l1_bartender_drinks.js) |
 | 8 kyu | [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/holiday_viii_duty_free.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/holiday_viii_duty_free.js) |
