@@ -1,4 +1,4 @@
-# Codewars Testing git
+# Codewars
 
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
