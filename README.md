@@ -5,7 +5,7 @@
 | ------------------- | ------------------- | ------------------- |
 | 7 kyu | [makeAcronym](https://www.codewars.com/kata/557efeb04effce569d000022/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/make_acronym.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/makeAcronym.js) |
 | 7 kyu | [Aerial Firefighting](https://www.codewars.com/kata/5d10d53a4b67bb00211ca8af/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/aerial_firefighting.py) !JavaScript| 
-| 7 kyu | [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/longest_vowel_chain.py) |
+| 7 kyu | [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/longest_vowel_chain.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/longest_vowel_chain.js) |
 | 7 kyu | [Count the Digit](https://www.codewars.com/kata/566fc12495810954b1000030/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/count_the_digit.py) |
 | 7 kyu | [Array element parity](https://www.codewars.com/kata/5a092d9e46d843b9db000064/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/array_element_parity.py) | 
 | 7 kyu | [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/indexed_capitalization.py) |
