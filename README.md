@@ -11,7 +11,7 @@
 | 7 kyu | [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/indexed_capitalization.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/indexed_capitalization.js) |
 | 7 kyu | [GCD sum](https://www.codewars.com/kata/5dd259444228280032b1ed2a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/gcd_sum.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/gcd_sum.js) |
 | 7 kyu | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/alternate_capitalization.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/alternate_capitalization.js) |
-| 7 kyu | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/simple_string_reversals.py) |
+| 7 kyu | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/simple_string_reversals.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/simple_string_reversals.js) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
