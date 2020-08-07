@@ -13,7 +13,7 @@
 | 7 kyu | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/alternate_capitalization.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/alternate_capitalization.js) |
 | 7 kyu | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/simple_string_reversals.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/simple_string_reversals.js) |
 | 7 kyu | [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/fix_string_case.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/fix_string_case.js) |
-|7 7kyu | [Find all non-consecutive numbers](https://www.codewars.com/kata/58f8b35fda19c0c79400020f/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/find_all_non_consecutive_numbers.py) |
+|7 7kyu | [Find all non-consecutive numbers](https://www.codewars.com/kata/58f8b35fda19c0c79400020f/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/find_all_non_consecutive_numbers.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/find_all_non_consecutive_numbers.js) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
