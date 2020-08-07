@@ -1,5 +1,5 @@
 # Fix string case
-# https://www.codewars.com/kata/5b180e9fedaa564a7000009a/solutions/python
+# https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/python
 
 def solve(s):
     uppercase = 0
