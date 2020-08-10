@@ -1,5 +1,5 @@
-// 
-// 
+// Simple string characters
+// https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/train/javascript
 
 function solve(s){
     var u = 0;
