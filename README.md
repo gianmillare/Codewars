@@ -16,6 +16,7 @@
 |7 7kyu | [Find all non-consecutive numbers](https://www.codewars.com/kata/58f8b35fda19c0c79400020f/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/find_all_non_consecutive_numbers.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/find_all_non_consecutive_numbers.js) |
 | 7 kyu | [Simple string reversal II](https://www.codewars.com/kata/5a8d1c82373c2e099d0000ac/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/simple_string_reversal_II.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/simple_string_reversal_II.js) |
 | 7 kyu | [Max Diff - Easy](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/max_diff_easy.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/max_diff_easy.js) |
+| 7 kyu | [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/simple_string_characters.py) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
