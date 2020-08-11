@@ -18,6 +18,7 @@
 | 7 kyu | [Max Diff - Easy](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/max_diff_easy.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/max_diff_easy.js) |
 | 7 kyu | [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/simple_string_characters.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/simple_string_characters.js) |
 | 7 kyu | [Halving Sum](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/halving_sum.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/halving_sum.js) |
+| 7 kyu | [Driving School Series #2](https://www.codewars.com/kata/589b1c15081bcbfe6700017a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/driving_school_series_2.py) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
