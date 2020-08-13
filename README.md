@@ -20,7 +20,7 @@
 | 7 kyu | [Halving Sum](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/halving_sum.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/halving_sum.js) |
 | 7 kyu | [Driving School Series #2](https://www.codewars.com/kata/589b1c15081bcbfe6700017a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/driving_school_series_2.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/driving_school_series_2.js) |
 | 7 kyu | [Diagonals sum](https://www.codewars.com/kata/5592fc599a7f40adac0000a8/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/diagonals_sum.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/diagonals_sum.js) |
-| 7 kyu | [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/mumbling.py) |
+| 7 kyu | [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/mumbling.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/mumbling.js) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
