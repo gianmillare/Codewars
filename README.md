@@ -25,6 +25,7 @@
 | 7 kyu | [Cryptanalysis Word Patterns](https://www.codewars.com/kata/5f3142b3a28d9b002ef58f5e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/cryptanalysis_word_patterns.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/cryptanalysis_word_patterns.js) |
 | 7 kyu | [Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/return_a_strings_even_characters.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/return_a_strings_even_characters.js) |
 | 7 kyu | [Pluck](https://www.codewars.com/kata/530017aac7c0f49926000084/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/pluck.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/pluck.js) |
+| 7 kyu | [Nth power rules them all!](https://www.codewars.com/kata/58aed2cafab8faca1d000e20/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/nth_power_rules_them_all.py) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
