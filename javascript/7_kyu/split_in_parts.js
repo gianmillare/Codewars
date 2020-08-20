@@ -3,7 +3,6 @@
 
 var splitInParts = function(s, partLength){
   var ans = [];
-  var original_inc = partLength;
   
   for (var i = 0; i < s.length; i += partLength) {
     ans.push(s.slice(i, i + partLength));
