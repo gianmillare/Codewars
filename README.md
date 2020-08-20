@@ -26,7 +26,7 @@
 | 7 kyu | [Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/return_a_strings_even_characters.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/return_a_strings_even_characters.js) |
 | 7 kyu | [Pluck](https://www.codewars.com/kata/530017aac7c0f49926000084/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/pluck.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/pluck.js) |
 | 7 kyu | [Nth power rules them all!](https://www.codewars.com/kata/58aed2cafab8faca1d000e20/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/nth_power_rules_them_all.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/nth_power_rules_them_all.js) |
-| 7 kyu | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/split_in_parts.py) |
+| 7 kyu | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/split_in_parts.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/split_in_parts.js) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
