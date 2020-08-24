@@ -28,7 +28,7 @@
 | 7 kyu | [Nth power rules them all!](https://www.codewars.com/kata/58aed2cafab8faca1d000e20/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/nth_power_rules_them_all.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/nth_power_rules_them_all.js) |
 | 7 kyu | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/split_in_parts.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/split_in_parts.js) |
 | 7 kyu | [Letterbox Paint-Squad](https://www.codewars.com/kata/597d75744f4190857a00008d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/letterbox_paint_squad.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/letterbox_paint_squad.js) |
-| 7 kyu | [Exclamation marks series #3](https://www.codewars.com/kata/57faefc42b531482d5000123/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/exclamation_mark_series_3.py) |
+| 7 kyu | [Exclamation marks series #3](https://www.codewars.com/kata/57faefc42b531482d5000123/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/exclamation_mark_series_3.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/exclamation_mark_series_3.js) |
 
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
