@@ -3,6 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 7 kyu | [Homogenous arrays](https://www.codewars.com/kata/57ef016a7b45ef647a00002d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/homogeneous_arrays.py) |
 | 7 kyu | [Every possible sum of two digits](https://www.codewars.com/kata/5b4e474305f04bea11000148/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/every_possible_sum_of_two_digits.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/every_possible_sum_of_two_digits_.js) |
 | 7 kyu | [makeAcronym](https://www.codewars.com/kata/557efeb04effce569d000022/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/make_acronym.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/makeAcronym.js) |
 | 7 kyu | [Aerial Firefighting](https://www.codewars.com/kata/5d10d53a4b67bb00211ca8af/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/aerial_firefighting.py) !JavaScript| 
