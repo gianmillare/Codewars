@@ -3,7 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 7 kyu | [Counting Array Elements](https://www.codewars.com/kata/5569b10074fe4a6715000054/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/counting_array_elements.py) |
+| 7 kyu | [Counting Array Elements](https://www.codewars.com/kata/5569b10074fe4a6715000054/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/counting_array_elements.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/counting_arrays_elements.js) |
 | 7 kyu | [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/testing_1_2_3.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/testing_1_2_3.js) |
 | 7 kyu | [Comfortable words](https://www.codewars.com/kata/56684677dc75e3de2500002b/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/comfortable_words.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/comfortable_words.js) |
 | 7 kyu | [Homogenous arrays](https://www.codewars.com/kata/57ef016a7b45ef647a00002d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/homogeneous_arrays.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/homogeneous_arrays.js) |
