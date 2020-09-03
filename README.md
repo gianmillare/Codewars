@@ -3,6 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 7 kyu | [Sum of Array Singles](https://www.codewars.com/kata/59f11118a5e129e591000134/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/sum_of_array_singles.py) |
 | 7 kyu | [Squares Sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/squares_sequence.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/squares_sequence.js) |
 | 7 kyu | [Counting Array Elements](https://www.codewars.com/kata/5569b10074fe4a6715000054/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/counting_array_elements.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/counting_arrays_elements.js) |
 | 7 kyu | [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/testing_1_2_3.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/testing_1_2_3.js) |
