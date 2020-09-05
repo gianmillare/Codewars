@@ -3,6 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 7 kyu | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/highest_and_lowest.py) |
 | 7 kyu | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/vowel_count.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/vowel_count.js) |
 | 7 kyu | [Sum of Array Singles](https://www.codewars.com/kata/59f11118a5e129e591000134/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/sum_of_array_singles.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/sum_of_array_singles.js) |
 | 7 kyu | [Squares Sequence](https://www.codewars.com/kata/5546180ca783b6d2d5000062/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/squares_sequence.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/squares_sequence.js) |
