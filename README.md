@@ -3,7 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 7 kyu | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/two_to_one.py) |
+| 7 kyu | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/two_to_one.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/two_to_one.js) |
 | 7 kyu | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/complementary_dna.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/complementary_dna.js) |
 | 7 kyu | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/highest_and_lowest.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/highest_and_lowest.js) |
 | 7 kyu | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/vowel_count.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/vowel_count.js) |
