@@ -3,7 +3,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 7 kyu | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/isograms.py) |
+| 7 kyu | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/isograms.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/isograms.js) |
 | 7 kyu | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/shortest_word.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/shortest_word.js) |
 | 7 kyu | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/square_every_digit.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/square_every_digit.js) |
 | 7 kyu | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/two_to_one.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/two_to_one.js) |
