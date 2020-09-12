@@ -12,6 +12,9 @@ def is_isogram(s):
     
     return True
     
+# # Best Solution
+# def is_isogram(string):
+#     return len(string) == len(set(string.lower()))
 
 print(is_isogram("Dermatoglyphics"))
 print(is_isogram("isIsogram"))
