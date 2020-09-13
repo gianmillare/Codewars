@@ -4,6 +4,7 @@
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
 | 6 kyu | [Find the Odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/find_the_odd_int.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/find_the_odd_int.js) |
+| 6 kyu | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/multiples_of_3_or_5.py) |
 
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
