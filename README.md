@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/stop_spinning_my_words.py) |
 | 6 kyu | [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/counting_duplicates.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/counting_duplicates.js) |
 | 6 kyu | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/find_the_parity_outlier.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/find_the_parity_outlier.js) |
 | 6 kyu | [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/persistent_bugger.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/persistent_bugger.js) |
