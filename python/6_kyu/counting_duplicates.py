@@ -18,4 +18,12 @@ def duplicate_count(text):
   
   return count
 
+# Solution 2: using count function
+def duplicate_count(x):
+  # loop through a lowercased set of the text
+  # count how many times i appears in the FULL text
+  # if the the count is more than 1, append it into a list
+  # return the length of that list
+  return len([i for i in set(x.lower()) if x.lower().count(i) > 1])
+
 print(duplicate_count("aabBcde"))
