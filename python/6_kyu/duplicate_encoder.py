@@ -14,4 +14,9 @@ def duplicate_encode(word):
 
   return ''.join(ans)
 
+# Solution 2: More Pythonic
+def duplicate_encode(word):
+  word = word.lower()
+  return ''.join([")" if word.count(i) > 1 else "(" for i in word])
+
 print(duplicate_encode("Success"))
