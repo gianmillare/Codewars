@@ -1,6 +1,7 @@
 # Take a Ten Minute Walk
 # https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python
 
+# Solution 1: if statements
 def is_valid_walk(walk):
     if len(walk) != 10:
         return False
@@ -13,7 +14,9 @@ def is_valid_walk(walk):
 
     return True
 
-            
+# Solution 2: Python 1 liner
+def is_valid_walk(walk):
+    return len(walk) == 10 and walk.count('n') == walk.count('s') and walk.count('e') == walk.count('w')
 
     
 
