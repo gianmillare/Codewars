@@ -3,7 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 6 kyu | [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/take_a_ten_minute_walk.py) |
+| 6 kyu | [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/take_a_ten_minute_walk.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/take_a_ten_minute_walk.js) |
 | 6 kyu | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/duplicate_encoder.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/duplicate_encoder.js) |
 | 6 kyu | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/who_likes_it.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/who_likes_it.js) |
 | 6 kyu | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/stop_spinning_my_words.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/stop_spinning_my_words.js) |
