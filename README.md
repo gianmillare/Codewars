@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/replace_with_alphabet_position.py) |
 | 6 kyu | [Your Order, Please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/your_order_please.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/your_order_please.js) |
 | 6 kyu | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/array_diff.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/array_diff.js) |
 | 6 kyu | [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/take_a_ten_minute_walk.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/take_a_ten_minute_walk.js) |
