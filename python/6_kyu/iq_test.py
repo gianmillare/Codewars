@@ -18,6 +18,14 @@ def iq_test(numbers):
         if nums[i] == even_or_odd[key][0]:
           return i + 1
 
+# Solution 2: Index, Pythonic Solution
+def iq_test(numbers):
+  num = [int(i) % 2 for i in numbers.split(" ")]
+  if num.count(0) > 1:
+    return num.index(1) + 1
+  else:
+    return num.index(0) + 1
+
 print(iq_test("2 4 7 8 10"))
 print(iq_test("1 2 1 1"))
 print(iq_test("1 2 2"))
