@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/iq_test.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/iq_test.js) |
 | 6 kyu | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/replace_with_alphabet_position.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/replace_with_alphabet_position.js) |
 | 6 kyu | [Your Order, Please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/your_order_please.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/your_order_please.js) |
 | 6 kyu | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/array_diff.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/array_diff.js) |
