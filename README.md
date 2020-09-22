@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/create_phone_number.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/create_phone_number.js) |
 | 6 kyu | [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/iq_test.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/iq_test.js) |
 | 6 kyu | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/replace_with_alphabet_position.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/replace_with_alphabet_position.js) |
 | 6 kyu | [Your Order, Please](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/your_order_please.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/your_order_please.js) |
