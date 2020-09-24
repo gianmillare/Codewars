@@ -3,7 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 6 kyu | [Does My Number Look Big in This?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/does_my_number_look_big_in_this.py) |
+| 6 kyu | [Does My Number Look Big in This?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/does_my_number_look_big_in_this.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/does_my_number_look_big_in_this.js) |
 | 6 kyu | [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/unique_in_order.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/unique_in_order.js) |
 | 6 kyu | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/create_phone_number.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/create_phone_number.js) |
 | 6 kyu | [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/iq_test.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/iq_test.js) |
