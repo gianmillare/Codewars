@@ -18,6 +18,11 @@ def comp(arr1, arr2):
   else:
     return False
 
-    
+# Solution 2: try and except comparison (Pythonic)
+def comp(arr1, arr2):
+  try:
+    return sorted([i**2 for i in arr1]) == sorted(arr2)
+  except:
+    return False
 
-# print(comp([121, 144, 19, 161, 19, 144, 19, 11], [11*11, 121*121, 144*144, 19*19, 161*161, 19*19, 144*144, 19*19]))
+print(comp([121, 144, 19, 161, 19, 144, 19, 11], [11*11, 121*121, 144*144, 19*19, 161*161, 19*19, 144*144, 19*19]))
