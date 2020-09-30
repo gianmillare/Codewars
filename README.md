@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Are They the "Same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/are_they_the_same.py) |
 | 6 kyu | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/find_the_missing_letter.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/find_the_missing_letter.js) |
 | 6 kyu | [Find the Unique Number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/find_the_unique_number.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/find_the_unique_number.js) |
 | 6 kyu | [Does My Number Look Big in This?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/does_my_number_look_big_in_this.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/does_my_number_look_big_in_this.js) |
