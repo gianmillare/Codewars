@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/bit_counting.py) |
 | 6 kyu | [Are They the "Same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/are_they_the_same.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/are_they_the_same.js) |
 | 6 kyu | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/find_the_missing_letter.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/find_the_missing_letter.js) |
 | 6 kyu | [Find the Unique Number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/find_the_unique_number.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/find_the_unique_number.js) |
