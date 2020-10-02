@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/convert_string_to_camel_case.py) |
 | 6 kyu | [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/bit_counting.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/bit_counting.js) |
 | 6 kyu | [Are They the "Same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/are_they_the_same.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/are_they_the_same.js) |
 | 6 kyu | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/find_the_missing_letter.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/find_the_missing_letter.js) |
