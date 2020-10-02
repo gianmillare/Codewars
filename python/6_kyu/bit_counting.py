@@ -13,6 +13,10 @@ def count_bits(n):
     bit_list = list(bit_string[2:])
     bit_list_as_integers = list(map(int, bit_list))
     return sum(bit_list_as_integers)
+
+# Solution 3: Best Practice: using count
+def count_bits(n):
+    return bin(n).count("1")
     
 print(count_bits(1234))
 print(count_bits(0))
