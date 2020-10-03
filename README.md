@@ -3,7 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 6 kyu | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/detect_pangram.py) |
+| 6 kyu | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/detect_pangram.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/detect_pangram.js) |
 | 6 kyu | [Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/convert_string_to_camel_case.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/convert_string_to_camel_case.js) |
 | 6 kyu | [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/bit_counting.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/bit_counting.js) |
 | 6 kyu | [Are They the "Same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/are_they_the_same.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/are_they_the_same.js) |
