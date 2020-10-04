@@ -3,7 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 6 kyu | [Delete Occurrences of an Element... More than N Times](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/delete_occurrences_of_an_element.py) |
+| 6 kyu | [Delete Occurrences of an Element... More than N Times](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/delete_occurrences_of_an_element.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/delete_occurrences_of_an_element.js) |
 | 6 kyu | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/detect_pangram.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/detect_pangram.js) |
 | 6 kyu | [Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/convert_string_to_camel_case.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/convert_string_to_camel_case.js) |
 | 6 kyu | [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/bit_counting.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/bit_counting.js) |
