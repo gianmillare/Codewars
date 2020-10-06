@@ -3,6 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Sort the Odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/sort_the_odd.py) |
 | 6 kyu | [Count the Smiley Faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/count_the_smiley_faces.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/count_the_smiley_faces.js) |
 | 6 kyu | [Delete Occurrences of an Element... More than N Times](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/delete_occurrences_of_an_element.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/delete_occurrences_of_an_element.js) |
 | 6 kyu | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/detect_pangram.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/detect_pangram.js) |
