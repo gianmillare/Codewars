@@ -1,6 +1,7 @@
 # Build Tower
 # https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/python
 
+# Solution 1: Concatenation
 def tower_builder(n):
     if n == 1:
         return ['*']
