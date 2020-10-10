@@ -12,7 +12,10 @@ def make_scorecard():
     return points
 
 def high(x):
-    return x
+    scorecard = make_scorecard()
+    contestants = x.split(" ")
+
+    
 
 print(high("man i need a taxi up to ubud"))
 print(high("what time are we climbing up the volcano"))
