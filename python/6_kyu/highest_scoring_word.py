@@ -25,10 +25,15 @@ def high(x):
         
         scores[i] = count
     
-    return scores
+    greatest = 0
 
+    for key in scores:
+        if scores[key] > greatest:
+            ans = key
+            greatest = scores[key]
     
-
+    return ans
+            
 print(high("man i need a taxi up to ubud"))
 print(high("what time are we climbing up the volcano"))
 print(high("take me to semynak"))
