@@ -3,7 +3,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 6 kyu | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/highest_scoring_word.py) |
+| 6 kyu | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/highest_scoring_word.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/highest_scoring_word.js) |
 | 6 kyu | [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/build_tower.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/build_tower.js) |
 | 6 kyu | [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/equal_sides_of_an_array.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/equal_sides_of_an_array.js) |
 | 6 kyu | [Sort the Odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/sort_the_odd.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/sort_the_odd.js) |
