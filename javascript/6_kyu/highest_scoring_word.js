@@ -16,7 +16,31 @@ function makeScorecard(){
 }
 
 function high(x) {
+    var scorecard = makeScorecard();
+    var words = x.split(" ");
 
+    var scores = {};
+
+    for (var i = 0; i < words.length; i++) {
+        var count = 0;
+
+        for (var j = 0; j < words[i].length; j++) {
+            count += scorecard[words[i][j]];
+        }
+
+        scores[words[i]] = count;
+    }
+
+    var greatest = 0;
+
+    for (var key in scores) {
+        if ( scores[key] > greatest ) {
+            var ans = key;
+            greatest = scores[key];
+        }
+    }
+
+    return ans;
 }
 
 console.log(high("man i need a taxi up to ubud"));
