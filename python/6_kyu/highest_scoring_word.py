@@ -15,6 +15,18 @@ def high(x):
     scorecard = make_scorecard()
     contestants = x.split(" ")
 
+    scores = {}
+
+    for i in contestants:
+        count = 0
+        
+        for j in i:
+            count += scorecard[j]
+        
+        scores[i] = count
+    
+    return scores
+
     
 
 print(high("man i need a taxi up to ubud"))
