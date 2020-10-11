@@ -8,6 +8,10 @@ def song_decoder(s):
         s.remove("")
     return " ".join(s)
 
+# Solution 2: Pythonic Split, Replace, Join
+def song_decoder(s):
+    return " ".join(s.replace("WUB", " ").split())
+
 print(song_decoder("AWUBBWUBC"))
 print(song_decoder("AWUBWUBWUBBWUBWUBWUBC"))
 print(song_decoder("WUBAWUBBWUBCWUB"))
