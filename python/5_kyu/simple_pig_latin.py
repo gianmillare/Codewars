@@ -20,6 +20,18 @@ def pig_it(s):
                  
     return " ".join(ans)
 
+# Solution 2: Index and Append
+def pig_it(s):
+    ans = []
+
+    for i in s.split():
+        if i.isalpha():
+            ans.append(i[1:] + i[0] + "ay")
+        else:
+            ans.append(i)
+    
+    return " ".join(ans)
+
 print(pig_it("Pig latin is cool"))
-print(pig_it("Hello World!"))
+print(pig_it("Hello World !"))
 print(pig_it("This is my string"))
