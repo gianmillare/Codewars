@@ -25,7 +25,13 @@ def make_readable(time):
 
 
     return ":".join([str(hours), str(minutes), str(seconds)])
-        
+
+# Solution 2: Divide, Modulus, and Format
+def make_readable(s):
+    h = int(s / 3600)
+    m = int((s % 3600) / 60)
+    s = int(s % 60)
+    return "{:02d}:{:02d}:{:02d}".format(h, m, s)        
 
 print(make_readable(0))
 print(make_readable(5))
