@@ -3,6 +3,7 @@
 ### 5 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 5 kyu | [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/valid_parantheses.py) |
 | 5 kyu | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/moving_zeros_to_the_end.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/moving_zeros_to_the_end.js) |
 | 5 kyu | [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/human_readable_time.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/human_readable_time.js) |
 | 5 kyu | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/simple_pig_latin.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/simple_pig_latin.js) |
