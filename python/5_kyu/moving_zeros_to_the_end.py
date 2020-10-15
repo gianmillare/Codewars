@@ -19,7 +19,7 @@ def move_zeros(arr):
 
 # Solution 2: isinstance python one liner
 def move_zeros(arr):
-  return [i for i in arr if isinstance(i, bool) or i != 0] + [i for i in arr if not isinstance(i, bool) and i ==0]
+  return [i for i in arr if isinstance(i, bool) or i != 0] + [i for i in arr if not isinstance(i, bool) and i == 0]
 
 print(move_zeros([1,2,0,1,0,1,0,3,0,1]))
 print(move_zeros([9,0.0,0,9,1,2,0,1,0,1,0.0,3,0,1,9,0,0,0,0,9]))
