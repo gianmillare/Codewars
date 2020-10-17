@@ -52,6 +52,22 @@ function maxSequence(arr) {
     return parseInt(max_key);
 }
 
+// Solution 2 (Complete and Better Solution): summing every value
+function maxSequence(arr) {
+    // Create a variable to hold max value
+    var max = 0
+    
+    // Loop through arr, create variable sum, if sum if greater than max --> new max
+    for (var i = 0; i < arr.length; i++) {
+      for (var sum = 0, j = i; j < arr.length; j++) {
+        sum += arr[j]
+        if (sum > max) max = sum
+      }
+    }
+    
+    return max
+  }
+
 // console.log(maxSequence([]));
 // console.log(maxSequence([-1, -2, -3]));
 console.log(maxSequence([-2, 1, -3, 4, -1, 2, 1, -5, 4]));
