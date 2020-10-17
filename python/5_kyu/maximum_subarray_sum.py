@@ -22,10 +22,12 @@ def max_sequence(arr):
     # create a dictionary to hold all the sub-arrays
     sub_arrays = {}
 
+    # Loop through array to find sub_arrays and sums
     for i in range(len(arr)):
         for j in range(i + 1, len(arr)):
            sub_arrays[sum(arr[i : j + 1])] = arr[i : j + 1]
 
+    # Locate the largest key in the dictionary
     sub_max = max(sub_arrays, key=int)
     return sub_max
 
