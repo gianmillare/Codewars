@@ -1,7 +1,7 @@
 // Maximum Subarray Sum
 // https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript
 
-// Solution 1: Find contingencies, Create sub-array dictionary
+// Solution 1 (not all problems passed): Find contingencies, Create sub-array dictionary
 
 // Create function to locate any positive values
 function locatePositive(arr) {
@@ -27,8 +27,31 @@ function maxSequence(arr) {
     if ( locatePositive(arr) == false ) {
         return 0;
     }
+
+    // Create a dictionary to hold sub-arrays
+    var subArrays = {};
+
+    // loop through the array, and append all subarrays with a key of it's sum
+    for (var i = 0; i < arr.length; i++) {
+        for ( var j = i + 1; j < arr.length; j++) {
+            var subArray = arr.slice(i, j + 1);
+            var subArraySum = subArray.reduce(function(a, b) {return a + b;}, 0);
+            subArrays[subArraySum] = subArray;
+        }
+    }
+
+    // loop through dictionary to find max key
+    var max_key = 0;
+
+    for (var key in subArrays) {
+        if (key > max_key) {
+            max_key = key;
+        }
+    }
+
+    return parseInt(max_key);
 }
 
-console.log(maxSequence([]));
-console.log(maxSequence([-1, -2, -3]));
-// console.log(maxSequence([-2, 1, -3, 4, -1, 2, 1, -5, 4]));
+// console.log(maxSequence([]));
+// console.log(maxSequence([-1, -2, -3]));
+console.log(maxSequence([-2, 1, -3, 4, -1, 2, 1, -5, 4]));
