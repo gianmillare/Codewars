@@ -3,7 +3,7 @@
 ### 5 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 5 kyu | [Maximum Subarray Sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/maximum_subarray_sum.py) |
+| 5 kyu | [Maximum Subarray Sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/maximum_subarray_sum.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/maximum_subarray_sum.js) |
 | 5 kyu | [Where My Anagrams At?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/where_my_anagrams_at.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/where_my_anagrams_at.js) |
 | 5 kyu | [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/valid_parentheses.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/valid_parentheses.js) |
 | 5 kyu | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/moving_zeros_to_the_end.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/moving_zeros_to_the_end.js) |
