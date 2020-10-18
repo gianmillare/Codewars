@@ -11,6 +11,17 @@ def dirReduc(arr):
         return dirReduc(directions_v3)
     else:
         return directions_v3
+
+# Solution 2: Deleting Matching Sets
+def dirReduc(arr):
+    redundant_matches = [{"NORTH", "SOUTH"}, {"WEST", "EAST"}]
+
+    for i in range(len(arr) - 1):
+        if set(arr[i: i + 2]) in redundant_matches:
+            del arr[i:i + 2]
+            return dirReduc(arr)
+    
+    return arr
  
 print(dirReduc(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]))
-# print(dirReduc(["NORTH", "WEST", "SOUTH", "EAST"]))
+print(dirReduc(["NORTH", "WEST", "SOUTH", "EAST"]))
