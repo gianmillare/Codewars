@@ -1,5 +1,5 @@
 // Rot13
-// https://www.codewars.com/kata/530e15517bc88ac656000716/train/python
+// https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript
 
 // Solution 1: Hard Coding dictionary and Encryption
 // Create function to make cypher dictionary
@@ -31,14 +31,37 @@ function rot13(message) {
             for (const [key, value] of Object.entries(cypherUppercase) ) {
                 if ( message[i] == value ) {
                     var encryptedChar = parseInt(key);
-                    res.push(encryptedChar);
+                    if ( encryptedChar + 13 >= 26 ) {
+                        var encrypt13 = (encryptedChar + 13) - 26;
+                        res.push(cypherUppercase[encrypt13.toString()]);
+                    } else {
+                        var encrypt13 = encryptedChar + 13;
+                        res.push(cypherUppercase[encrypt13.toString()]);
+                    }
                 }
             }
+        } else if ( isAlpha(message[i]) && message[i] == message[i].toLowerCase() ) {
+            for (const [key, value] of Object.entries(cypherLowercase)) {
+                if ( message[i] == value ) {
+                    var encryptedChar = parseInt(key);
+                    if ( encryptedChar + 13 >= 26 ) {
+                        var encrypt13 = (encryptedChar + 13) - 26;
+                        res.push(cypherLowercase[encrypt13.toString()]);
+                    } else {
+                        var encrypt13 = encryptedChar + 13;
+                        res.push(cypherLowercase[encrypt13.toString()]);
+                    }
+                }
+            }
+        } else {
+            res.push[i];
         }
     }
 
-    return res;
+    return res.join("");
 }
 
 console.log(rot13("test"));
 console.log(rot13("Test"));
+console.log(rot13("Dog"));
+conseole.log(rot13("Ruby is cool!"));
