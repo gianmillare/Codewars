@@ -1,7 +1,7 @@
 # Rot13
 # https://www.codewars.com/kata/530e15517bc88ac656000716/train/python
 
-# Solution 1: Iterating through dictionary + 
+# Solution 1 (My Solution): Iterating through dictionary + 
 # Create the cypher where each letter is given an integer
 def encode(arr):
     cypher, count = {}, 0
@@ -57,6 +57,13 @@ def rot13(message):
             res.append(i)
         
     return "".join(res)
+
+# Solution 2: Arbitrary solution from another user (does not work on challenge, only in IDE)
+import string
+from codecs import encode as _dont_use_this_
+
+def rot13(message):
+    return message.encode("rot13")
 
 print(rot13("test"))
 print(rot13("Test"))
