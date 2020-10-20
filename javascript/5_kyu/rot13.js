@@ -24,12 +24,20 @@ function rot13(message) {
     var cypherLowercase = encode("abcdefghijklmnopqrstuvwxyz");
     var cypherUppercase = encode("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
     message = message.split("");
+    var res = [];
 
     for (var i = 0; i < message.length; i++) {
         if ( isAlpha(message[i]) && message[i] == message[i].toUpperCase() ) {
-            for ( )
+            for (const [key, value] of Object.entries(cypherUppercase) ) {
+                if ( message[i] == value ) {
+                    var encryptedChar = parseInt(key);
+                    res.push(encryptedChar);
+                }
+            }
         }
     }
+
+    return res;
 }
 
 console.log(rot13("test"));
