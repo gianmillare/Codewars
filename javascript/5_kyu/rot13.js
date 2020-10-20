@@ -24,6 +24,7 @@ function rot13(message) {
     var cypherLowercase = encode("abcdefghijklmnopqrstuvwxyz");
     var cypherUppercase = encode("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
     message = message.split("");
+
     var res = [];
 
     for (var i = 0; i < message.length; i++) {
@@ -54,14 +55,14 @@ function rot13(message) {
                 }
             }
         } else {
-            res.push[i];
+            res.push(message[i]);
         }
     }
 
     return res.join("");
 }
 
-console.log(rot13("test"));
-console.log(rot13("Test"));
-console.log(rot13("Dog"));
-conseole.log(rot13("Ruby is cool!"));
+// console.log(rot13("test"));
+// console.log(rot13("Test"));
+// console.log(rot13("Dog"));
+console.log(rot13("Ruby is cool!"));
