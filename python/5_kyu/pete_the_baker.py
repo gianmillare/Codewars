@@ -3,17 +3,22 @@
 
 # Solution 1: Getting minimum from new dictionary
 def cakes(recipe, available):
+    # Create an empty dictionary to hole answers
     finished_recipe = {}
 
+    # Loop through all keys of recipe to find matching keys in available
     for key in recipe:
         if key in available:
             finished_recipe[key] = 0
+
+            # If available is greater than recipe, increment dictionary entry
             while recipe[key] < available[key]:
                 available[key] = available[key] - recipe[key]
                 finished_recipe[key] += 1
         else:
             return 0
     
+    # return the minimum amount of ingredients from the dictionary
     return min(finished_recipe.values())
 
 
