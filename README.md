@@ -3,6 +3,7 @@
 ### 5 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 5 kyu | [Pete, The Baker](https://www.codewars.com/kata/525c65e51bf619685c000059/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/pete_the_baker.py) |
 | 5 kyu | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/rot13.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/rot13.js) |
 | 5 kyu | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/directions_reduction.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/directions_reduction.js) |
 | 5 kyu | [Maximum Subarray Sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/maximum_subarray_sum.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/maximum_subarray_sum.js) |
