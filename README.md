@@ -3,7 +3,7 @@
 ### 4 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 4 kyu | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/4_kyu/snail.py) |
+| 4 kyu | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/4_kyu/snail.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/4_kyu/snail.js) |
 
 ### 5 kyu
 | Kyu (Ranking)  | Title | Solution |
