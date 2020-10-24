@@ -7,3 +7,4 @@ function snail(array) {
 
 console.log(snail([[1,2,3],[4,5,6],[7,8,9]]));
 console.log(snail([[1,2,3],[8,9,4],[7,6,5]]));
+console.log(snail([[1,2,3,1],[4, 5, 6, 4],[7,8,9,7], [7,8,9,7]]));
