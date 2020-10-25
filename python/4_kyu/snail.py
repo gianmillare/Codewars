@@ -8,29 +8,38 @@ def snail(snail_map):
 
     # Loop through the rest of the array, removing the last values of each array (right)
     for i in range(len(snail_map)):
-        ans.append(snail_map[i][-1])
+        remove_value_to_append = snail_map[i].pop(-1)
+        ans.append(remove_value_to_append)
+
 
     # Loop through the last array and append digits in reverse chronological order (bottom)
-    for i in range(len(snail_map[-1]) - 2, -1, -1):
-        ans.append(snail_map[-1][i])
+    for i in range(len(snail_map[-1]) - 1, -1, -1):
+        remove_value_to_append = snail_map[-1].pop(i)
+        ans.append(remove_value_to_append)
+    
+    # Remove the empty arrays
+    snail_map.remove([])
 
     # Loop through the  1 value of each list excluding the first and last arrays
-    for i in range(len(snail_map) -2, -1, -1):
-        ans.append(snail_map[i][0])
-        snail_map[i].pop(0)
+    for i in range(len(snail_map) -1, -1, -1):
+        remove_value_to_append = snail_map[i].pop(0)
+        ans.append(remove_value_to_append)
     
-    return snail_map
-    
-    return ans
+    if snail_map:
+        return snail(snail_map)
+    else:
+        return ans
+
+
     
 
-print(snail([[1,2,3],
-             [4,5,6],
-             [7,8,9]]))
+# print(snail([[1,2,3],
+#              [4,5,6],
+#              [7,8,9]]))
 
-print(snail([[1,2,3],
-             [8,9,4],
-             [7,6,5]]))
+# print(snail([[1,2,3],
+#              [8,9,4],
+#              [7,6,5]]))
 
 print(snail([[1,2,3,1],
              [4,5,6,4],
