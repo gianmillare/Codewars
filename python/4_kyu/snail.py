@@ -33,25 +33,32 @@ def snail(snail_map):
             remove_value_to_append = snail_map[i].pop(0)
             ans.append(remove_value_to_append)
     
+    # transfer array from ans into res
     res.append(ans)
     
+    # if there is more to the trail, recursive function
     if snail_map:
         return snail(snail_map)
+    # if trail is empty, append all arrays inside array res to a completed trail array
     else:
         completed_snail_trail = []
         for i in res:
             for j in i:
                 completed_snail_trail.append(j)
         
+        # Because of recursion, clear res to prevent appendage from other arrays
+        del res[:]
+        
         return completed_snail_trail
 
-# print(snail([[1,2,3],
-#              [4,5,6],
-#              [7,8,9]]))
 
-# print(snail([[1,2,3],
-#              [8,9,4],
-#              [7,6,5]]))
+print(snail([[1,2,3],
+             [4,5,6],
+             [7,8,9]]))
+
+print(snail([[1,2,3],
+             [8,9,4],
+             [7,6,5]]))
 
 print(snail([[1,2,3,1],
              [4,5,6,4],
