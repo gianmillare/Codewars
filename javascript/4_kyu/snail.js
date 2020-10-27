@@ -8,11 +8,16 @@ var results = [];
 function snail(array) {
     // The first steps of the trail will always be the first array
     if (array) {
+        // push the values into an array that will hold values per recursion
         var ans = [];
         for (var i = 0; i < array[0].length; i++) {
-            console.log(array[0][i]);
+            ans.push(array[0][i]);
         }
+        array.splice(0, 1);
     }
+
+    console.log(array);
+    return ans;
 }
 
 console.log(snail([[1,2,3],
