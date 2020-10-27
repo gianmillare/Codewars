@@ -43,19 +43,31 @@ function snail(array) {
         // remove the last sub-array
         array.splice(array.length - 1, 1);
     }
+
+    // loop through the rest of the sub-arrays in reverse order to append first values of each sub-array
+    if (array) {
+        // assign the reversed array to a variable
+        var reversed_array = array.reverse();
+        // loop through reversed array and push the first of each sub-array
+        for (var i = 0; i < reversed_array.length; i++) {
+            ans.push(reversed_array[i][0]);
+            // remove the pushed values from array
+            reversed_array[i].splice(0, 1);
+        }
+    }
     console.log(array);
     return ans;
 }
 
-console.log(snail([[1,2,3],
-                   [4,5,6],
-                   [7,8,9]]));
+// console.log(snail([[1,2,3],
+//                    [4,5,6],
+//                    [7,8,9]]));
 
 // console.log(snail([[1,2,3],
 //     [8,9,4],
 //     [7,6,5]]));
     
-// console.log(snail([[1,2,3,1],
-//     [4,5,6,4],
-//     [7,8,9,7], 
-//     [7,8,9,7]]));
+console.log(snail([[1,2,3,1],
+                   [4,5,6,4],
+                   [7,8,9,7], 
+                   [7,8,9,7]]));
