@@ -31,6 +31,18 @@ function snail(array) {
         }
     }
 
+    // loop through the last sub-array and push values in reverse order
+    if (array) {
+        // assign the last sub-array to a variable
+        var last_array = array[array.length - 1].reverse();
+
+        // loop through the last array and push the values in reverse order
+        for (var i = 0; i < last_array.length; i++) {
+            ans.push(last_array[i]);
+        }
+        // remove the last sub-array
+        array.splice(array.length - 1, 1);
+    }
     console.log(array);
     return ans;
 }
