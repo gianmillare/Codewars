@@ -55,8 +55,20 @@ function snail(array) {
             reversed_array[i].splice(0, 1);
         }
     }
-    console.log(array);
-    return ans;
+
+    // push values from ans to global variable res
+    for (var i = 0; i < ans.length; i++) {
+        results.push(ans[i]);
+    }
+
+    return results;
+
+    // if array still has values in it, run the function again
+    if (array) {
+        return snail(array);
+    } else {
+        var completed_trail = [];
+    }
 }
 
 // console.log(snail([[1,2,3],
