@@ -56,6 +56,9 @@ function snail(array) {
         }
     }
 
+    // re-reverse the array again in case of recursion
+    array.reverse();
+
     // push values from ans to global variable res
     for (var i = 0; i < ans.length; i++) {
         results.push(ans[i]);
@@ -65,17 +68,26 @@ function snail(array) {
     if (array.length > 0) {
         return snail(array);
     } else {
-        return results;
+        // to prevent continuous pushing to global variable, store completed snail trail in function variable
+        var completed_snail_trail = [];
+
+        for (var i = 0; i < results.length; i++) {
+            completed_snail_trail.push(results[i]);
+        }
+
+        // clear the results array for next problem set
+        results = [];
+        return completed_snail_trail;
     }
 }
 
-// console.log(snail([[1,2,3],
-//                    [4,5,6],
-//                    [7,8,9]]));
+console.log(snail([[1,2,3],
+                   [4,5,6],
+                   [7,8,9]]));
 
-// console.log(snail([[1,2,3],
-//     [8,9,4],
-//     [7,6,5]]));
+console.log(snail([[1,2,3],
+    [8,9,4],
+    [7,6,5]]));
     
 console.log(snail([[1,2,3,1],
                    [4,5,6,4],
