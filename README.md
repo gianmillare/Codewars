@@ -4,6 +4,7 @@
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
 | 4 kyu | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/4_kyu/snail.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/4_kyu/snail.js) |
+| 4 kyu | [Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/4_kyu/human_readable_duration_format.py) |
 
 ### 5 kyu
 | Kyu (Ranking)  | Title | Solution |
