@@ -7,7 +7,7 @@ var results = [];
 // will use recucursion to solve the snail trail
 function snail(array) {
     // The first steps of the trail will always be the first array
-    if (array) {
+    if (array.length > 0) {
         // push the values into an array that will hold values per recursion
         var ans = [];
         for (var i = 0; i < array[0].length; i++) {
@@ -18,7 +18,7 @@ function snail(array) {
     }
 
     // loop through the array and push values into ans equal to the last value of each sub-array
-    if (array) {
+    if (array.length > 0) {
         for (var i = 0; i < array.length; i++) {
             // get the metrics of the last value of the sub-array --> length of subarray - 1
             var array_length = array[i].length;
@@ -32,7 +32,7 @@ function snail(array) {
     }
 
     // loop through the last sub-array and push values in reverse order
-    if (array) {
+    if (array.length > 0) {
         // assign the last sub-array to a variable
         var last_array = array[array.length - 1].reverse();
 
@@ -45,7 +45,7 @@ function snail(array) {
     }
 
     // loop through the rest of the sub-arrays in reverse order to append first values of each sub-array
-    if (array) {
+    if (array.length > 0) {
         // assign the reversed array to a variable
         var reversed_array = array.reverse();
         // loop through reversed array and push the first of each sub-array
@@ -61,13 +61,11 @@ function snail(array) {
         results.push(ans[i]);
     }
 
-    return results;
-
     // if array still has values in it, run the function again
-    if (array) {
+    if (array.length > 0) {
         return snail(array);
     } else {
-        var completed_trail = [];
+        return results;
     }
 }
 
