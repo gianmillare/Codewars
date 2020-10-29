@@ -9,4 +9,4 @@ console.log(format_duration(1));
 console.log(format_duration(62));
 console.log(format_duration(120));
 console.log(format_duration(3600));
-console.log(format_duration(3662));
+console.log(format_duration(3662));œ
