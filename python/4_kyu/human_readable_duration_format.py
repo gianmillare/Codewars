@@ -1,35 +1,51 @@
 # Human Readable Duration Format
 # https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
 
-# def format_duration(time):
-#     # if the time is equal to zero, return now
-#     if time == 0:
-#         return "now"
-    
-#     # if the time is less than 60 seconds, return time as a string and concatenate the word "seconds"
-#     if time == 1:
-#         return str(time) + " second"
-#     elif 1 < time < 60:
-#         return str(time) + " seconds" 
+def year_calc(time):
+  ans = int(time / years)
+  time -= years
+  return ans
 
-# Another solution: Using division
+# Solution 1: Division/Modulus
+minutes = 60
+hours = 3600
+days = 86400
+years = 31536000
+human_format = {
+  "years": 0,
+  "days": 0,
+  "hours": 0,
+  "minutes": 0,
+  "seconds": 0
+}
+
 def format_duration(time):
+    # if time is zero, return now
     if time == 0:
         return "now"
     
-    if time == 1:
+    # if time is 1, return 1 second
+    elif time == 1:
         return str(time) + " second"
     
-    if 1 < time < 60:
-        return str(time) + " seconds"
+    # if time is less than 60 but more than 1, return time concatenate minutes
+    elif 1 < time < 60:
+      return str(time) + " seconds"
     
-    if time >= 60:
-        min = time / 60
-        seconds = time % 60
+    # if time is not zero and more than 1, run function decrement
+    else:
+      if time > years:
+        human_format["years"] = year_calc(time)
     
+    return human_format
 
 
-print(format_duration(1))
+      
+    
+
+print(format_duration(31536001))
+# print(format_duration(0))
+# print(format_duration(1))
 # print(format_duration(62))
 # print(format_duration(120))
 # print(format_duration(3600))
