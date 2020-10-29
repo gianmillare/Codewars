@@ -1,10 +1,16 @@
 # Codewars
 
 ### 1 kyu
+| Kyu (Ranking)  | Title | Solution |
+| ------------------- | ------------------- | ------------------- |
 
 ### 2 kyu
+| Kyu (Ranking)  | Title | Solution |
+| ------------------- | ------------------- | ------------------- |
 
 ### 3 kyu
+| Kyu (Ranking)  | Title | Solution |
+| ------------------- | ------------------- | ------------------- |
 
 ### 4 kyu
 | Kyu (Ranking)  | Title | Solution |
