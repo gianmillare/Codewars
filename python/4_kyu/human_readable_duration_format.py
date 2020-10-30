@@ -1,7 +1,7 @@
 # Human Readable Duration Format
 # https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
 
-formatted {
+formatted = {
     "year": 0,
     "day": 0,
     "hour": 0,
@@ -12,7 +12,11 @@ formatted {
 year_sec, day_sec, hour_sec, min_sec = 31536000, 86400, 3600, 60
 
 def format_duration(t):
-    return t
+    if t >= year_sec:
+        formatted["year"] = t / year_sec
+        t = t - (year_sec * formatted["year"])
+    
+
 
 print(format_duration(0))
 print(format_duration(1))
