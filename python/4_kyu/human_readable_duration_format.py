@@ -15,7 +15,6 @@ def human_format(lang):
     
     return results
 
-
 def format_duration(t):
     formatted = {
         "year": 0,
@@ -24,6 +23,7 @@ def format_duration(t):
         "minute": 0,
         "second": 0
     }
+
     if t == 0:
         return "now"
 
@@ -49,8 +49,11 @@ def format_duration(t):
             t = 0
     
     ans = human_format(formatted)
-    
-    return ", ".join(ans)
+    if len(ans) == 1:
+        return ans[0]
+    else:
+        last_format = ans.pop(-1)
+        return ", ".join(ans) + " and " + last_format
     
 print(format_duration(0))
 print(format_duration(1))
