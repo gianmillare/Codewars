@@ -9,11 +9,9 @@ def human_format(lang):
     for key in lang:
         if lang[key] > 0:
             if lang[key] == 1:
-                results.append(lang[key])
-                results.append(key)
+                results.append(str(lang[key]) + " " + key)
             if lang[key] > 1:
-                results.append(lang[key])
-                results.append(key + "s")
+                results.append(str(lang[key]) + " " + key + "s")
     
     return results
 
@@ -52,13 +50,13 @@ def format_duration(t):
     
     ans = human_format(formatted)
     
-    return ans
+    return ", ".join(ans)
     
-# print(format_duration(0))
-# print(format_duration(1))
-# print(format_duration(62))
-# print(format_duration(120))
-# print(format_duration(3600))
-# print(format_duration(3662))
+print(format_duration(0))
+print(format_duration(1))
+print(format_duration(62))
+print(format_duration(120))
+print(format_duration(3600))
+print(format_duration(3662))
 print(format_duration(86404))
 print(format_duration(31536003))
