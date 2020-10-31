@@ -25,13 +25,10 @@ function human_format(format) {
 
 // Main Function
 function formatDuration(t) {
+    
     // Create the dictionary that will hold the amount needed in each duration
     var format = {
-        "year": 0,
-        "day": 0,
-        "hour": 0,
-        "minute": 0,
-        "second": 0
+        "year": 0, "day": 0, "hour": 0, "minute": 0, "second": 0
     };
 
     // if t is zero, return "now"
@@ -41,6 +38,7 @@ function formatDuration(t) {
 
     // if t does not equal zero, then decrement functions
     while ( !(t == 0) ) {
+
         // format if time is greater than seconds in years
         if (t >= yearToSec) {
             format["year"] = parseInt(t / yearToSec);
@@ -72,18 +70,18 @@ function formatDuration(t) {
         }
     }
     
+    // Run the human format function to return a list of strings instead of a dictionary
     results = human_format(format);
 
+    // Reset the format dictionary to all zeros for following sample challenges
     var format = {
-        "year": 0,
-        "day": 0,
-        "hour": 0,
-        "minute": 0,
-        "second": 0
+        "year": 0, "day": 0, "hour": 0, "minute": 0, "second": 0
     };
 
+    // if the length of the results is 1, then return the first element on its own
     if (results.length == 1) {
         return results[0];
+        // if the length of results is more than 1, splice the last element, join all elements in results, and concat the spliced element
     } else {
         concatAndElement = " and ".concat(results.splice(results.length - 1));
         return results.join(", ").concat(concatAndElement);
