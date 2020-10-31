@@ -73,13 +73,27 @@ function formatDuration(t) {
     }
     
     results = human_format(format);
-    return results;
+
+    var format = {
+        "year": 0,
+        "day": 0,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+    };
+
+    if (results.length == 1) {
+        return results[0];
+    } else {
+        concatAndElement = " and ".concat(results.splice(results.length - 1));
+        return results.join(", ").concat(concatAndElement);
+    }
 }
 
-// console.log(formatDuration(1));
-// console.log(formatDuration(62));
-// console.log(formatDuration(120));
-// console.log(formatDuration(3600));
-// console.log(formatDuration(3662));
+console.log(formatDuration(1));
+console.log(formatDuration(62));
+console.log(formatDuration(120));
+console.log(formatDuration(3600));
+console.log(formatDuration(3662));
 console.log(formatDuration(86404));
-// console.log(formatDuration(31536003));
+console.log(formatDuration(31536003));
