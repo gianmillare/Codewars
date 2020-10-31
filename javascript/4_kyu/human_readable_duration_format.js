@@ -7,6 +7,22 @@ const dayToSec = 86400;
 const hourToSec = 3600;
 const minToSec = 60;
 
+// function to change numerical values from dictionary into human speech
+function human_format(format) {
+    human_speech = [];
+
+    for (var key in format) {
+        if ( !(format[key] == 0) ) {
+            if (format[key] == 1) {
+                human_speech.push( format[key].toString().concat(" ").concat(key) );
+            } else {
+                human_speech.push( format[key].toString().concat(" ").concat(key).concat("s") );
+            }
+        }
+    }
+    return human_speech;
+}
+
 // Main Function
 function formatDuration(t) {
     // Create the dictionary that will hold the amount needed in each duration
@@ -55,7 +71,9 @@ function formatDuration(t) {
             t = 0;
         }
     }
-    return format;
+    
+    results = human_format(format);
+    return results;
 }
 
 // console.log(formatDuration(1));
