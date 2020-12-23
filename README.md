@@ -102,6 +102,7 @@
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 8 kyu | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/even_or_odd.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/even_or_odd.js) |
 | 8 kyu | [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/hello_world.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/hello_world.js) [Swift](https://github.com/gianmillare/Codewars/blob/master/swift/8_kyu/function_1_hello_world.swift) |
 | 8 kyu | [L1: Bartender, drinks!](https://www.codewars.com/kata/568dc014440f03b13900001d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/l1_bartender_drinks.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/l1_bartender_drinks.js) |
 | 8 kyu | [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/holiday_viii_duty_free.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/holiday_viii_duty_free.js) |
