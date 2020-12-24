@@ -58,6 +58,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 7 kyu | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/get_the_middle_character.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/get_the_middle_character.js) |
 | 7 kyu | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/isograms.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/isograms.js) |
 | 7 kyu | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/shortest_word.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/shortest_word.js) |
 | 7 kyu | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/square_every_digit.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/square_every_digit.js) |
