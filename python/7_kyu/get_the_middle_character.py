@@ -3,6 +3,8 @@
 
 def get_middle(s):
     # check if the length of the word is even or odd
+    s = list(s)
+    print(s)
     even_or_odd = "Even" if len(s) % 2 == 0 else "Odd"
     
     # Create a empyt list variable
@@ -10,10 +12,10 @@ def get_middle(s):
 
     # conditional statement depending on even or odd
     if even_or_odd == "Even":
-        ans.append(s[(len(s) / 2) - 1])
-        ans.append(s[len(s) / 2])
+        ans.append(s[(len(s) // 2) - 1])
+        ans.append(s[len(s) // 2])
     else:
-        ans.append(s[(len(s) / 2)])
+        ans.append(s[(len(s) // 2)])
     
     # join the list ans
     return "".join(ans)
