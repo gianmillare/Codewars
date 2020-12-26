@@ -23,6 +23,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/split_strings.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/split_strings.js) |
 | 6 kyu | [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/dubstep.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/dubstep.js) |
 | 6 kyu | [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/write_number_in_expanded_form.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/write_number_in_expanded_form.js) |
 | 6 kyu | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/highest_scoring_word.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/highest_scoring_word.js) |
@@ -58,7 +59,6 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 7 kyu | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/split_strings.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/split_strings.js) |
 | 7 kyu | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/disemvowel_trolls.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/disemvowel_trolls.js) |
 | 7 kyu | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/get_the_middle_character.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/get_the_middle_character.js) |
 | 7 kyu | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/isograms.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/isograms.js) |
