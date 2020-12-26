@@ -10,8 +10,16 @@ def solution(s):
         for i in range(0, len(s), 2):
             ans.append(s[i] + s[i + 1])
     
+    # if the length of string is odd, append letters up to second to last letter in string
+    if len(s) % 2 != 0:
+        
+        for i in range(0, len(s) - 1, 2):
+            ans.append(s[i] + s[i + 1])
+        
+        # then append the last letter while concatenating a "_"
+        ans.append(s[-1] + "_")
     
     return ans
 
-print(solution("asdfadsf"))
-# print(solution("asdfads"))
+# print(solution("asdfadsf"))
+print(solution("asdfads"))
