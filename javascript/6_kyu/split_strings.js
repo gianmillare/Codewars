@@ -8,8 +8,15 @@ function solution(s) {
 
     // If string is odd, append a "_"
     if ( !(s.length % 2 == 0) ) {
-        s.append("_");
+        s.push("_");
     }
+
+    // loop through list s and append to ans every two characters
+    for (i = 0; i < s.length; i+=2) {
+        ans.push(s[i].concat(s[i+1]));
+    }
+
+    return ans;
 }
 
 console.log(solution("abcdef"));
