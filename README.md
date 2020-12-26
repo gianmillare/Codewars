@@ -58,6 +58,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 7 kyu | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/split_strings.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/split_strings.js) |
 | 7 kyu | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/disemvowel_trolls.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/disemvowel_trolls.js) |
 | 7 kyu | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/get_the_middle_character.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/get_the_middle_character.js) |
 | 7 kyu | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/isograms.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/isograms.js) |
