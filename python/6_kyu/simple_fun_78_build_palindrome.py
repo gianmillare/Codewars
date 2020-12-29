@@ -1,30 +1,25 @@
 # Simple Fun #78: Build Palindrome
 # https://www.codewars.com/kata/58942f9175f2c78f4b000108/train/python
 
-import math
+def split_array(s):
+    x = s[:len(s) / 2]
+    y = s[len(s) / 2:]
+
+    return [x, y]
 
 def build_palindrome(s):
-    # change the string into an array
+    
+    # convert the string into an array of characters
     s = list(s)
-    
-    # figure out if the string is Odd or Even characters long
-    if len(s) % 2 != 0:
 
-        # if odd, assign the middle index to a variable
-        mid_index = (len(s) / 2) + 1
-        
-        # check if the first half matches the second half
-        first_half = s[:mid_index - 1]
-        second_half = s[mid_index:]
+    # split the list into two parts
+    split_string = split_array(s)
+    first_half = split_string[0]
+    second_half = split_string[1]
 
-        if first_half == second_half[::-1]:
-            return "match"
-        else:
-            return "no match"
-    
-    return mid_index
+    print(first_half)
+    print(second_half)
 
-print(build_palindrome("abcba")) # abcdcba
-print(build_palindrome("abcdc")) # abcdcba
-# print(build_palindrome("bbbabaccbb")) # bbbabaccbbccababbb
-# print(build_palindrome("cccacbbccb")) # cccacbbccbbcaccc
+print(build_palindrome("gfcacfgfgg")) # gfcacfgfggfgfcacfg
+print(build_palindrome("aaabbabaa")) # aaabbabaababbaaa
+print(build_palindrome("bcabca")) # bcabcacbacb
