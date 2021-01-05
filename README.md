@@ -106,6 +106,7 @@
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 8 kyu | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/string_repeat.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/string_repeat.js) |
 | 8 kyu | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/remove_first_and_last_character.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/remove_first_and_last_character.js) |
 | 8 kyu | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/even_or_odd.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/even_or_odd.js) |
 | 8 kyu | [Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/hello_world.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/hello_world.js) [Swift](https://github.com/gianmillare/Codewars/blob/master/swift/8_kyu/function_1_hello_world.swift) |
