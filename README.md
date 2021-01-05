@@ -106,6 +106,7 @@
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 8 kyu | [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/basic_mathematical_operations.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/basic_mathematical_operations.js) |
 | 8 kyu | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/string_repeat.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/string_repeat.js) |
 | 8 kyu | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/remove_first_and_last_character.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/remove_first_and_last_character.js) |
 | 8 kyu | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/even_or_odd.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/even_or_odd.js) |
