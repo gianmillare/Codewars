@@ -60,6 +60,7 @@
 ### 7 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 7 kyu | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/youre_a_square.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/youre_a_square.js) |
 | 7 kyu | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/disemvowel_trolls.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/disemvowel_trolls.js) |
 | 7 kyu | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/get_the_middle_character.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/get_the_middle_character.js) |
 | 7 kyu | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/7_kyu/isograms.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/7_kyu/isograms.js) |
@@ -106,6 +107,7 @@
 ### 8 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 8 kyu | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/remove_string_spaces.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/remove_string_spaces.js) |
 | 8 kyu | [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/basic_mathematical_operations.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/basic_mathematical_operations.js) |
 | 8 kyu | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/string_repeat.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/string_repeat.js) |
 | 8 kyu | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/8_kyu/remove_first_and_last_character.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/8_kyu/remove_first_and_last_character.js) |
