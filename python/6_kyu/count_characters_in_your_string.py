@@ -15,5 +15,10 @@ def count(s):
     
     return ans
 
+# # Alternative, ideal answer
+# from collections import Counter
+# def count(s):
+#     return Counter(s)
+
 print(count('aba'))
 print(count(''))
