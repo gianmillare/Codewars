@@ -9,6 +9,7 @@
 ### 5 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 5 kyu | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/hashtag_generator.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/hashtag_generator.js) |
 | 5 kyu | [Weight for Weight](https://www.codewars.com/kata/55c6126177c9441a570000cc/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/weight_for_weight.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/weight_for_weight.js) |
 | 5 kyu | [Pete, The Baker](https://www.codewars.com/kata/525c65e51bf619685c000059/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/pete_the_baker.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/pete_the_baker.js) |
 | 5 kyu | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/rot13.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/rot13.js) |
