@@ -40,6 +40,11 @@ function generateHashtag(s) {
             space = true;
         }
     }
+    
+    // if the array was ONLY spaces, then it will be captured as empty here, return false
+    if (ans.length == 0) {
+        return false;
+    }
 
     // Throw a hashtag in front of the array
     ans.unshift("#");
@@ -48,7 +53,7 @@ function generateHashtag(s) {
     ans = ans.join("");
 
     // If the answer is over 140 characters long, return false
-    if (ans.length >= 140) {
+    if (ans.length > 140) {
         return false;
     }
 
@@ -56,7 +61,8 @@ function generateHashtag(s) {
 
 }
 
-console.log(generateHashtag(""));
-console.log(generateHashtag("Codewars"));
-console.log(generateHashtag("Codewars Is Nice"));
-console.log(generateHashtag("Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong"));
+// console.log(generateHashtag(""));
+// console.log(generateHashtag("Codewars"));
+// console.log(generateHashtag("Codewars Is Nice"));
+// console.log(generateHashtag("Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong"));
+console.log(generateHashtag("a".repeat(139)));
