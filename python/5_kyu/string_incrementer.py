@@ -28,7 +28,7 @@ def incrememt_string(s):
 
         elif s[i].isdigit():
             # gather the information of the numeric values, add 1 to the number
-            values_length = s[i:]
+            values_length = len(s[i:])
             values = int("".join(s[i:])) + 1
 
             # change the int into a list of its digits
@@ -41,11 +41,11 @@ def incrememt_string(s):
             # append the new array into answer array
             ans.append("".join(value_back))
     
-    return "".join(ans)
+            return "".join(ans)
 
 
 # print(incrememt_string("foo"))
-print(incrememt_string("foobar001"))
-# print(incrememt_string("foobar99"))
+# print(incrememt_string("foobar001"))
+print(incrememt_string("foobar99"))
 # print(incrememt_string("foobar099"))
 # print(incrememt_string(""))
