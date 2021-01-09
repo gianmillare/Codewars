@@ -22,8 +22,7 @@ function incrementString(s) {
     // first reverse the string array
     reversed_array = s.reverse();
 
-    // create arrays to hold the answer, and increment index of numbers
-    var ans = [];
+    // create variable that increment index of numbers
     var ind = 0;
 
     // loop through the array, if you find a digit, increment ind until not int is found
@@ -47,12 +46,14 @@ function incrementString(s) {
         n.unshift("0");
     }
 
-    return n;
+    // variable answer is the substring index concatenating n
+    var ans =  original.substring(0, startInc).split("").concat(n);
+    return ans.join("");
 }
 
-// console.log(incrementString("foo"));
+console.log(incrementString("foo"));
 console.log(incrementString("foobar001"));
-// console.log(increment_string("foobar99"));
-// console.log(increment_string("foobar099"));
-// console.log(increment_string(""));
-// console.log(increment_string("1s]X>016507.Wiw=T3y67581487bNqji_*C8190579O RA7663Z2Qi~O896nU~/489027691861674357bcT304345054"));
+console.log(incrementString("foobar99"));
+console.log(incrementString("foobar099"));
+console.log(incrementString(""));
+console.log(incrementString("1s]X>016507.Wiw=T3y67581487bNqji_*C8190579O RA7663Z2Qi~O896nU~/489027691861674357bcT304345054"));
