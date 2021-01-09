@@ -2,6 +2,9 @@
 // https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/javascript
 
 function incrementString(s) {
+
+    // store the original array
+    original = s;
     
     // if string is empty, return "1"
     if (s.length == 0) {
@@ -34,6 +37,17 @@ function incrementString(s) {
 
     // create the starting index of the original array
     var startInc = s.length - ind;
+
+    // create a variable to hold the integer at the end, and increment by 1, then create an array using the result
+    var n = parseInt(original.substring(startInc, s.length)) + 1;
+    n = n.toString().split("");
+    
+    // while the length of the substring is greater than length of n, append 0 to the front of the array
+    while (ind > n.length) {
+        n.unshift("0");
+    }
+
+    return n;
 }
 
 // console.log(incrementString("foo"));
