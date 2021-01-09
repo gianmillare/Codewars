@@ -31,34 +31,18 @@ def increment_string(s):
     
     start_inc = len(s) - ind
 
+    # using start_inc, remove the values from s, and create a new array using the removed values
+    replaced_values = list(str(int("".join(s[start_inc:])) + 1))
 
-
-
-
-        # # append letters
-        # if s[i].isalpha():
-        #     ans.append(s[i])
-
-        # elif s[i].isdigit():
-        #     # gather the information of the numeric values, add 1 to the number
-        #     values_length = len(s[i:])
-        #     values = int("".join(s[i:])) + 1
-
-        #     # change the int into a list of its digits
-        #     value_back = list(str(values))
-
-        #     # if the length of the values array does not match values_length, append 0 to the front until it does
-        #     while values_length > len(value_back):
-        #         value_back.insert(0, "0")
-            
-        #     # append the new array into answer array
-        #     ans.append("".join(value_back))
+    while ind > len(replaced_values):
+        replaced_values.insert(0, "0")
     
-        #     return "".join(ans)
+    ans = s[:start_inc] + replaced_values
 
+    return "".join(ans)
 
 # print(increment_string("foo"))
-# print(increment_string("foobar001"))
+print(increment_string("foobar001"))
 # print(increment_string("foobar99"))
 # print(increment_string("foobar099"))
 # print(increment_string(""))
