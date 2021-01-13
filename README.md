@@ -9,6 +9,7 @@
 ### 5 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 5 kyu | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/scramblies.py) |
 | 5 kyu | [String Incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/string_incrementer.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/string_incrementer.js) |
 | 5 kyu | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/hashtag_generator.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/hashtag_generator.js) |
 | 5 kyu | [Weight for Weight](https://www.codewars.com/kata/55c6126177c9441a570000cc/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/5_kyu/weight_for_weight.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/5_kyu/weight_for_weight.js) |
