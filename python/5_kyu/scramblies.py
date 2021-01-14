@@ -40,6 +40,14 @@ def scramble(s1, s2):
     
     return True
 
+# # Best Solution
+# def scramble(s1, s2):
+#     for c in set(s2):
+#         if s1.count(c) < s2.count(c):
+#             return False
+    
+#     return True
+
 print(scramble("rkqodlw", "world"))
 print(scramble("cedewaraaossoqqyt", "codewars"))
 print(scramble("katas", "steak"))
