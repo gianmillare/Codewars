@@ -26,6 +26,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
+| 6 kyu | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/goodvsevil.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/goodvsevil.js) |
 | 6 kyu | [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/count_characters_in_your_string.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/count_characters_in_your_string.js) |
 | 6 kyu | [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/format_a_string_of_names.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/format_a_string_of_names.js) |
 | 6 kyu | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/split_strings.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/split_strings.js) |
