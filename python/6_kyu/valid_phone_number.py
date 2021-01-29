@@ -8,9 +8,14 @@ def validPhoneNumber(s):
             digit_index = [1, 2, 3, 6, 7, 8, 10, 11, 12, 13]
             for i in range(len(s)):
                 if i in digit_index:
-                    
-
-
+                    if s[i].isdigit():
+                        return True
+                    else:
+                        return False
+        else:
+            return False
+    else:
+        return False
 
 print(validPhoneNumber("(123) 456-7890"))
 print(validPhoneNumber("(1111)555 2345"))
