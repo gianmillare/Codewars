@@ -17,6 +17,18 @@ def validPhoneNumber(s):
     else:
         return False
 
+# Alternate solution
+def validPhoneNumber(phoneNumber):
+    number = ''
+    template = '(xxx) xxx-xxxx'
+    for l in phoneNumber:
+        if l.isdigit():
+            number += 'x'
+        else:
+            number += l
+    
+    return number == template
+
 print(validPhoneNumber("(123) 456-7890"))
 print(validPhoneNumber("(1111)555 2345"))
 print(validPhoneNumber("(098) 123 4567"))
