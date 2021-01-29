@@ -26,7 +26,7 @@
 ### 6 kyu
 | Kyu (Ranking)  | Title | Solution |
 | ------------------- | ------------------- | ------------------- |
-| 6 kyu | [Valid Phone Number](https://www.codewars.com/kata/525f47c79f2f25a4db000025/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/valid_phone_number.py) |
+| 6 kyu | [Valid Phone Number](https://www.codewars.com/kata/525f47c79f2f25a4db000025/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/valid_phone_number.py) | [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/valid_phone_number.js) |
 | 6 kyu | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/two_sum.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/twoSum.js) |
 | 6 kyu | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/goodvsevil.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/goodvsevil.js) |
 | 6 kyu | [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/python) | [Python](https://github.com/gianmillare/Codewars/blob/master/python/6_kyu/count_characters_in_your_string.py) [JavaScript](https://github.com/gianmillare/Codewars/blob/master/javascript/6_kyu/count_characters_in_your_string.js) |
